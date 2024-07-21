@@ -1,3 +1,4 @@
+//IMPLEMENTATION OF MERGE SORT
 #include <stdio.h>
 
 /* Function to merge the subarrays of a[] */
