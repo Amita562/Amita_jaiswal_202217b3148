@@ -1,3 +1,4 @@
+//ARRAY IMPLEMENTATION OF LIST ADT
 #include <stdio.h>
 #include <stdlib.h> // for exit()
 
