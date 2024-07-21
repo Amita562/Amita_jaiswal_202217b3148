@@ -1,3 +1,4 @@
+//APPLICATION OF LIST ADT (POLYNOMIAL ADDITION)
 #include<stdio.h>
 
 // Structure definition for polynomial term
