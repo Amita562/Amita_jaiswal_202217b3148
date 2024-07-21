@@ -1,3 +1,4 @@
+//ARRAY IMPLEMENTATION OF STACK ADT
 #include <stdio.h>
 
 int stack[100], choice, n, top = -1, x, i; // Initialize top to -1
