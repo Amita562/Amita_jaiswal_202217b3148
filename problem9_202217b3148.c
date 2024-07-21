@@ -1,3 +1,4 @@
+//IMPLEMENTATION OF INSERTION SORT
 #include <stdio.h>
 
 void insert(int a[], int n)
