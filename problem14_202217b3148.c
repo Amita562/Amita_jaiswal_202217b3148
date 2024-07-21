@@ -1,3 +1,4 @@
+//IMPLEMENTATION OF TREE TRAVERSAL
 int max_node = 15;
 char tree[] = {'\0', 'D', 'A', 'F', 'E', 'B', 'R', 'T', 'G', 'Q', '\0', '\0', 'V', '\0', 'J', 'L'};
    
