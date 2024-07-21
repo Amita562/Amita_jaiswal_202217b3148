@@ -1,3 +1,4 @@
+//ARRAY IMPLEMENTATION OF QUEUE ADT
 #include <stdio.h>
 // #include <conio.h> // Remove this line as it's not standard
 #include <stdlib.h> // Include this for exit() function
